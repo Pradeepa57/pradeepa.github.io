@@ -71,3 +71,26 @@
 * **Read the Full Article:** [Click here to view the published blog](https://medium.com/coinmonks/top-forex-crm-providers-trusted-and-regulated-choices-6e4bc2e84537)
 
 ---
+
+## Newsletters
+
+### **1. CMC Markets Highlights the Importance of API Partnerships in Fintech Development**
+
+* **Type:** Newsletter (Published on LinkedIn)
+* **Read the Full Newsletter:** [Click here to view the newsletter](https://www.linkedin.com/posts/hashcodex_hashcodex-cmcmarkets-financialservices-activity-7473262698680541184-QuSa?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAESNXjcB5dG7p-vnhiT-1tR6DMK50_68Mc4&utm_campaign=copy_link)
+
+---
+
+### **2. SBI-Backed Cashfree Payments Strengthens Its Cross-Border Strategy Beyond Traditional Payments**
+
+* **Type:** Newsletter (Published on LinkedIn)
+* **Read the Full Newsletter:** [Click here to view the newsletter](https://www.linkedin.com/posts/hashcodex_crossborderpayments-paymentservices-digitalbanking-activity-7480143596118122496-TSRV?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAESNXjcB5dG7p-vnhiT-1tR6DMK50_68Mc4&utm_campaign=copy_link)
+
+---
+
+### **3. Tiger Brokers Signals a New Compliance Reality for Cross-Border Brokers**
+
+* **Type:** Newsletter (Published on LinkedIn)
+* **Read the Full Newsletter:** [Click here to view the newsletter](https://www.linkedin.com/posts/hashcodex_hashcodex-tigerbrokers-crossbordertrading-activity-7469998615088807937-BNRA?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAESNXjcB5dG7p-vnhiT-1tR6DMK50_68Mc4&utm_campaign=copy_link)
+
+---
