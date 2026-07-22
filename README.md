@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Content+Writer;Web3+%7C+FinTech+%7C+Blockchain+Writer;Research-driven+Technical+Content+Creator">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Content+Writer;SEO+Content+Writer;Web3+%7C+FinTech+%7C+Blockchain+Writer;Research-driven+Technical+Content+Creator">
 
 # ✨ PRADEEPA
 
-### Content Writer | Web3 | FinTech | Blockchain | Digital Finance
+### Content Writer | SEO Content Writer | Web3 | FinTech | Blockchain
 
 Creating research-driven blogs, newsletters, and technical content that simplify complex technologies.
 
@@ -39,34 +39,6 @@ Over the past **6 months**, I have created **125+ content pieces** across multip
 My work includes **web blogs, promotional blogs, LinkedIn newsletters, press releases, microblogs, forum content, classified advertisements, and on-page SEO optimization.**
 
 Below is a curated selection of my published work.
-
----
-
-# 📈 SEO Highlights
-
-✔ **25+ pages achieved first-page rankings** for their target keywords.
-
-✔ **Multiple published articles were featured in Google's AI Overview.**
-
-✔ **Improved underperforming blog pages from beyond the fourth page to within the top two pages of search results through strategic on-page SEO optimization.**
-
----
-
-# ⭐ Featured Writing
-
-## Cross-Chain Tokenization Platform Development for Businesses
-
-**Published on:** Hashcodex
-
-A comprehensive article exploring how businesses can leverage cross-chain tokenization platforms to improve asset liquidity, security, and interoperability across blockchain networks.
-
-⭐ **Featured in Google's AI Overview**
-
-🔗 **Read Article:**
-
-https://www.hashcodex.com/cross-chain-tokenization-platform-development
-
-<img src="web_blog_1.jpeg" width="700">
 
 ---
 
@@ -303,6 +275,16 @@ In addition to the published work showcased above, I have also contributed to:
 
 ---
 
+# 📈 SEO Highlights
+
+✔ **25+ pages achieved first-page rankings** for their target keywords.
+
+✔ **Multiple published articles were featured in Google's AI Overview.**
+
+✔ **Improved underperforming blog pages from beyond the fourth page to within the top two pages of search results through strategic on-page SEO optimization.**
+
+---
+
 # 🤝 Let's Connect
 
 <div align="center">
@@ -313,7 +295,7 @@ Thank you for taking the time to explore my portfolio.
 
 📧 **[pradeepapreethi0507@gmail.com](mailto:pradeepapreethi0507@gmail.com)**
 
-💼 **LinkedIn:**
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/pradeepa-baskaran-047208281
 
 <br>
