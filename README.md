@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Content+Writer;SEO+Content+Writer;Web3+%7C+FinTech+%7C+Blockchain+Writer;Research-driven+Technical+Content+Creator">
 
-# ✨ PRADEEPA
+<h1>✨ PRADEEPA</h1>
 
-### Content Writer | SEO Content Writer | Web3 | FinTech | Blockchain
+<h3>Content Writer | SEO Content Writer | Web3 | FinTech | Blockchain</h3>
 
 Creating research-driven blogs, newsletters, and technical content that simplify complex technologies.
 
