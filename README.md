@@ -53,13 +53,13 @@ Below are a few selected articles that demonstrate my research, technical writin
 <tr>
 <td width="50%">
 
-## 🔗 Cross-Chain Tokenization Platform Development
+<h2>🔗 Cross-Chain Tokenization Platform Development</h2>
 
-**Published on:** Hashcodex
+<p><strong>Published on:</strong> Hashcodex</p>
 
-⭐ Featured in Google's AI Overview
+<p>⭐ Featured in Google's AI Overview</p>
 
-Exploring blockchain interoperability and asset tokenization solutions for businesses.
+<p>Exploring blockchain interoperability and asset tokenization solutions for businesses.</p>
 
 <a href="https://www.hashcodex.com/cross-chain-tokenization-platform-development">
 Read Article →
@@ -77,13 +77,13 @@ Read Article →
 <tr>
 <td>
 
-## 💳 CBDC Wallet Development Company
+<h2>💳 CBDC Wallet Development Company</h2>
 
-**Published on:** Hashcodex
+<p><strong>Published on:</strong> Hashcodex</p>
 
-⭐ Featured in Google's AI Overview
+<p>⭐ Featured in Google's AI Overview</p>
 
-Understanding secure digital currency infrastructure for central banks and fintech ecosystems.
+<p>Understanding secure digital currency infrastructure for central banks and fintech ecosystems.</p>
 
 <a href="https://www.hashcodex.com/cbdc-wallet-development">
 Read Article →
@@ -101,13 +101,13 @@ Read Article →
 <tr>
 <td>
 
-## 🔐 Trading Engine Security
+<h2>🔐 Trading Engine Security</h2>
 
-**Published on:** Hashcodex
+<p><strong>Published on:</strong> Hashcodex</p>
 
-⭐ Featured in Google's AI Overview
+<p>⭐ Featured in Google's AI Overview</p>
 
-A deep dive into security threats and defensive architectures used by trading platforms.
+<p>A deep dive into security threats and defensive architectures used by trading platforms.</p>
 
 <a href="https://www.hashcodex.com/trading-engine-security-risks-and-defense-measures">
 Read Article →
@@ -125,13 +125,13 @@ Read Article →
 <tr>
 <td>
 
-## 📈 Binary Options Trading Platforms
+<h2>📈 Binary Options Trading Platforms</h2>
 
-**Published on:** Hashcodex
+<p><strong>Published on:</strong> Hashcodex</p>
 
-⭐ Featured in Google's AI Overview
+<p>⭐ Featured in Google's AI Overview</p>
 
-Understanding trading platform architectures, models, and essential features.
+<p>Understanding trading platform architectures, models, and essential features.</p>
 
 <a href="https://www.hashcodex.com/types-of-binary-options">
 Read Article →
@@ -161,9 +161,9 @@ Below are a few selected publications.
 <tr>
 <td>
 
-## 🚀 White Label Crypto Exchange Launch
+<h2>🚀 White Label Crypto Exchange Launch</h2>
 
-**Platform:** Medium
+<p><strong>Platform:</strong> Medium</p>
 
 <a href="https://medium.com/activated-thinker/what-if-a-white-label-crypto-exchange-could-cut-months-from-your-launch-timeline-c5aa92299109">
 Read Article →
@@ -175,11 +175,11 @@ Read Article →
 <tr>
 <td>
 
-## 📊 Binary Options Trading Platform in 2026
+<h2>📊 Binary Options Trading Platform in 2026</h2>
 
-**Platform:** Medium
+<p><strong>Platform:</strong> Medium</p>
 
-A guide covering important considerations for launching a binary options trading platform.
+<p>A guide covering important considerations for launching a binary options trading platform.</p>
 
 <a href="https://medium.com/write-a-catalyst/how-to-launch-a-binary-options-trading-platform-in-2026-091b8204890b">
 Read Article →
@@ -191,11 +191,11 @@ Read Article →
 <tr>
 <td>
 
-## 💱 Top Forex CRM Providers
+<h2>💱 Top Forex CRM Providers</h2>
 
-**Platform:** Medium
+<p><strong>Platform:</strong> Medium</p>
 
-Exploring trusted CRM solutions for forex businesses.
+<p>Exploring trusted CRM solutions for forex businesses.</p>
 
 <a href="https://medium.com/coinmonks/top-forex-crm-providers-trusted-and-regulated-choices-6e4bc2e84537">
 Read Article →
@@ -219,9 +219,9 @@ Below are a few featured newsletters.
 <tr>
 <td>
 
-## 🏦 CMC Markets Highlights the Importance of API Partnerships in Fintech Development
+<h2>🏦 CMC Markets Highlights the Importance of API Partnerships in Fintech Development</h2>
 
-**Platform:** LinkedIn Newsletter
+<p><strong>Platform:</strong> LinkedIn Newsletter</p>
 
 <a href="https://www.linkedin.com/posts/hashcodex_hashcodex-cmcmarkets-financialservices-activity-7473262698680541184-QuSa">
 Read Newsletter →
@@ -233,9 +233,9 @@ Read Newsletter →
 <tr>
 <td>
 
-## 🌍 SBI-Backed Cashfree Payments Strengthens Its Cross-Border Strategy
+<h2>🌍 SBI-Backed Cashfree Payments Strengthens Its Cross-Border Strategy</h2>
 
-**Platform:** LinkedIn Newsletter
+<p><strong>Platform:</strong> LinkedIn Newsletter</p>
 
 <a href="https://www.linkedin.com/posts/hashcodex_crossborderpayments-paymentservices-digitalbanking-activity-7480143596118122496-TSRV">
 Read Newsletter →
@@ -247,9 +247,9 @@ Read Newsletter →
 <tr>
 <td>
 
-## 📈 Tiger Brokers Signals a New Compliance Reality
+<h2>📈 Tiger Brokers Signals a New Compliance Reality</h2>
 
-**Platform:** LinkedIn Newsletter
+<p><strong>Platform:</strong> LinkedIn Newsletter</p>
 
 <a href="https://www.linkedin.com/posts/hashcodex_hashcodex-tigerbrokers-crossbordertrading-activity-7469998615088807937-BNRA">
 Read Newsletter →
@@ -293,12 +293,11 @@ If you're looking for a content writer who enjoys simplifying technical concepts
 
 Thank you for taking the time to explore my portfolio.
 
-📧 **[pradeepapreethi0507@gmail.com](mailto:pradeepapreethi0507@gmail.com)**
+📧 <strong><a href="mailto:pradeepapreethi0507@gmail.com">pradeepapreethi0507@gmail.com</a></strong>
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/pradeepa-baskaran-047208281
+💼 <strong><a href="https://www.linkedin.com/in/pradeepa-baskaran-047208281">LinkedIn Profile</a></strong>
 
-<br>
+<br><br>
 
 ⭐ Thanks for visiting my portfolio!
 
