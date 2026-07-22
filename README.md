@@ -22,15 +22,33 @@ Creating research-driven blogs, newsletters, and technical content that simplify
 
 ---
 
+# 👋 About Me
+
+Hello! I'm **Pradeepa**, an SEO Content Writer with an MCA background and experience creating research-driven content for **Web3, FinTech, Blockchain, and Digital Finance**.
+
+I specialize in transforming complex technical concepts into clear, engaging, and search-friendly content that helps businesses improve their online visibility while delivering value to readers.
+
+This portfolio showcases a selection of my published work across websites, Medium publications, and LinkedIn newsletters, along with the different content formats I've created during my professional journey.
+
+---
+
 # 🚀 Portfolio Overview
 
-<div align="center">
+Over the past **6 months**, I have created **125+ content pieces** across multiple formats, contributing to SEO growth, audience engagement, and digital marketing initiatives.
 
-| ✍️ Web Blogs | 📢 Promotional Blogs | 📰 Newsletters | 🌎 Industries               |
-| ------------ | -------------------- | -------------- | --------------------------- |
-| 4+ Articles  | 3+ Publications      | 3+ Features    | Web3 • FinTech • Blockchain |
+My work includes **web blogs, promotional blogs, LinkedIn newsletters, press releases, microblogs, forum content, classified advertisements, and on-page SEO optimization.**
 
-</div>
+Below is a curated selection of my published work.
+
+---
+
+# 📈 SEO Highlights
+
+✔ **25+ pages achieved first-page rankings** for their target keywords.
+
+✔ **Multiple published articles were featured in Google's AI Overview.**
+
+✔ **Improved underperforming blog pages from beyond the fourth page to within the top two pages of search results through strategic on-page SEO optimization.**
 
 ---
 
@@ -39,11 +57,13 @@ Creating research-driven blogs, newsletters, and technical content that simplify
 ## Cross-Chain Tokenization Platform Development for Businesses
 
 **Published on:** Hashcodex
-**Category:** Blockchain | Web3 | Tokenization
 
 A comprehensive article exploring how businesses can leverage cross-chain tokenization platforms to improve asset liquidity, security, and interoperability across blockchain networks.
 
+⭐ **Featured in Google's AI Overview**
+
 🔗 **Read Article:**
+
 https://www.hashcodex.com/cross-chain-tokenization-platform-development
 
 <img src="web_blog_1.jpeg" width="700">
@@ -52,6 +72,10 @@ https://www.hashcodex.com/cross-chain-tokenization-platform-development
 
 # 📚 Web Blogs
 
+Over the course of my experience, I have written **30+ SEO-focused web blogs** covering Web3, FinTech, Blockchain, and Digital Finance.
+
+Below are a few selected articles that demonstrate my research, technical writing, and SEO content creation skills.
+
 <table>
 
 <tr>
@@ -59,7 +83,9 @@ https://www.hashcodex.com/cross-chain-tokenization-platform-development
 
 ## 🔗 Cross-Chain Tokenization Platform Development
 
-**Platform:** Hashcodex
+**Published on:** Hashcodex
+
+⭐ Featured in Google's AI Overview
 
 Exploring blockchain interoperability and asset tokenization solutions for businesses.
 
@@ -81,7 +107,9 @@ Read Article →
 
 ## 💳 CBDC Wallet Development Company
 
-**Platform:** Hashcodex
+**Published on:** Hashcodex
+
+⭐ Featured in Google's AI Overview
 
 Understanding secure digital currency infrastructure for central banks and fintech ecosystems.
 
@@ -103,7 +131,9 @@ Read Article →
 
 ## 🔐 Trading Engine Security
 
-**Platform:** Hashcodex
+**Published on:** Hashcodex
+
+⭐ Featured in Google's AI Overview
 
 A deep dive into security threats and defensive architectures used by trading platforms.
 
@@ -125,7 +155,9 @@ Read Article →
 
 ## 📈 Binary Options Trading Platforms
 
-**Platform:** Hashcodex
+**Published on:** Hashcodex
+
+⭐ Featured in Google's AI Overview
 
 Understanding trading platform architectures, models, and essential features.
 
@@ -148,15 +180,16 @@ Read Article →
 
 # 📢 Promotional Blogs
 
+Over the course of my experience, I have written **25+ promotional blogs** focused on increasing product awareness while delivering valuable and informative content to readers.
+
+Below are a few selected publications.
+
 <table>
 
 <tr>
 <td>
 
 ## 🚀 White Label Crypto Exchange Launch
-
-**Title:**
-What If a White Label Crypto Exchange Could Cut Months From Your Launch Timeline?
 
 **Platform:** Medium
 
@@ -204,6 +237,10 @@ Read Article →
 ---
 
 # 📰 Newsletters
+
+During my experience, I have written **5+ LinkedIn newsletters** covering industry news, product updates, and emerging trends in Web3, FinTech, and Digital Finance.
+
+Below are a few featured newsletters.
 
 <table>
 
@@ -253,19 +290,16 @@ Read Newsletter →
 
 ---
 
-# 🛠️ Content Expertise
+# ✨ Additional Professional Experience
 
-<div align="center">
+In addition to the published work showcased above, I have also contributed to:
 
-![Web3](https://img.shields.io/badge/Web3-Research-blueviolet?style=for-the-badge)
-
-![Blockchain](https://img.shields.io/badge/Blockchain-Writing-orange?style=for-the-badge)
-
-![FinTech](https://img.shields.io/badge/FinTech-Content-green?style=for-the-badge)
-
-![Technical Writing](https://img.shields.io/badge/Technical-Writing-black?style=for-the-badge)
-
-</div>
+- On-page SEO Optimization
+- Microblogs
+- Forum Content
+- Classified Advertisements
+- Press Releases
+- Guest Blogs
 
 ---
 
@@ -273,9 +307,9 @@ Read Newsletter →
 
 <div align="center">
 
-Interested in Web3, FinTech, blockchain, and technology content?
+If you're looking for a content writer who enjoys simplifying technical concepts into engaging, search-friendly content, I'd be happy to connect.
 
-Let's collaborate.
+Thank you for taking the time to explore my portfolio.
 
 📧 **[pradeepapreethi0507@gmail.com](mailto:pradeepapreethi0507@gmail.com)**
 
